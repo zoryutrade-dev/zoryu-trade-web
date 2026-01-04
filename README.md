@@ -1,3 +1,5 @@
+![Web CI](https://github.com/zoryutrade-dev/zoryu-trade-web/actions/workflows/ci.yml/badge.svg)
+
 # Zoryu Trade Web
 
 > Public web interface for Zoryu Trade.
